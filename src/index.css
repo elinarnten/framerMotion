@@ -5,14 +5,27 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
 
+  display: flex;
+  background-color: #000000e1;
+}
+html {
+  height: 100%;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .click-button {
+  color: deeppink;
+  font-size: larger;
   background-color: yellow;
   height: 4rem;
   width: 8rem;

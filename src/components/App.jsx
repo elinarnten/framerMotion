@@ -3,7 +3,7 @@ import Button from "./Button";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <motion.Button
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
