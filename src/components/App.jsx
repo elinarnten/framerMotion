@@ -1,5 +1,6 @@
 //import { motion } from "framer-motion";
 import Button from "./Button";
+import Main from "./Main";
 
 function App() {
   return (
