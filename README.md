@@ -1,6 +1,6 @@
 # Framer Motion
 
-A framwork to simplify your animations with React.
+A framework to simplify your animations with React.
 
 ## How to install
 
@@ -8,5 +8,12 @@ A framwork to simplify your animations with React.
 
 ## Implement into your code
 
-In your components.
-`import { motion } from "framer-motion"`
+In your components. <br>
+`import { motion } from "framer-motion"` <br>
+
+Now you are ready to use the framework and start coding! <br>
+<br>
+Use `motion.` to your desired HTML or SVG elements to create animations.
+<br> <br>
+
+Happy coding!
