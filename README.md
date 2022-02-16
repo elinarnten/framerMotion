@@ -1,6 +1,6 @@
 # Framer Motion
 
-### A framework to simplify your animations with React.
+A framework to simplify your animations with React.
 
 ## How to install
 
