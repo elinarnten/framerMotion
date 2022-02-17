@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import Main from "./Main";
 
 function Button() {
   return (
@@ -14,7 +13,7 @@ function Button() {
       whileHover={{ scale: 1.1 }}
       whileTap={{ scale: 0.9 }}
       className="click-button"
-      onClick={() => Main()}
+      onClick={() => null()}
     >
       Click Me!
     </motion.button>
