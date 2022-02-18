@@ -15,5 +15,5 @@ Now you are ready to use the framework and start coding! <br>
 <br>
 Use `motion.` to your desired HTML or SVG elements to create animations.
 <br> <br>
-Want to run my code? Please run `npm install` before you run `npm start`.
+Want to run my code? Please run `npm install` before you run `npm start`. <br>
 Happy coding!
